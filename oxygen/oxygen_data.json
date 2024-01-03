@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.02432250976562, 34.4443130493164]
+      },
+      "properties": {
+        "temperature (°C)": 15.547189712524414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.57968902587891, 34.8977394104004]
+      },
+      "properties": {
+        "temperature (°C)": 10.547189712524414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.02432250976562, 34.4443130493164]
+      },
+      "properties": {
+        "oxygen_mpl (mg/L)": 10.15399169921875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.57968902587891, 34.8977394104004]
+      },
+      "properties": {
+        "oxygen_mpl (mg/L)": 10.15399169921875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.02432250976562, 34.4443130493164]
+      },
+      "properties": {
+        "oxygen_per (%)": 90.496101379394531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.57968902587891, 34.8977394104004]
+      },
+      "properties": {
+        "oxygen_per (%)": 92.496101379394531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.02432250976562, 34.4443130493164]
+      },
+      "properties": {
+        "oxygen_ppm (ppm)": 15.547189712524414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.57968902587891, 34.8977394104004]
+      },
+      "properties": {
+        "oxygen_ppm (ppm)": 12.547189712524414
+      }
+    }
+  ]
+}

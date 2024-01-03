@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.02432250976562, 34.4443130493164]
+      },
+      "properties": {
+        "temperature (°C)": 15.547189712524414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.57968902587891, 34.8977394104004]
+      },
+      "properties": {
+        "temperature (°C)": 10.547189712524414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.02432250976562, 34.4443130493164]
+      },
+      "properties": {
+        "conductivity (µS/cm)": 40520.5625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.57968902587891, 34.8977394104004]
+      },
+      "properties": {
+        "conductivity (µS/cm)": 39520.5625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.02432250976562, 34.4443130493164]
+      },
+      "properties": {
+        "salinity (g/Kg)": 25.891000747680664
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.57968902587891, 34.8977394104004]
+      },
+      "properties": {
+        "salinity (g/Kg)": 27.891000747680664
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.02432250976562, 34.4443130493164]
+      },
+      "properties": {
+        "tds (ppm)": 26423.458984375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.57968902587891, 34.8977394104004]
+      },
+      "properties": {
+        "tds (ppm)": 27423.458984375
+      }
+    }
+  ]
+}

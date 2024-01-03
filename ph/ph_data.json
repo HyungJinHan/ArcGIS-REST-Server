@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.02432250976562, 34.4443130493164]
+      },
+      "properties": {
+        "temperature (°C)": 15.547189712524414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.57968902587891, 34.8977394104004]
+      },
+      "properties": {
+        "temperature (°C)": 10.547189712524414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.02432250976562, 34.4443130493164]
+      },
+      "properties": {
+        "ph_meter (mV)": -42.9354248046875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.57968902587891, 34.8977394104004]
+      },
+      "properties": {
+        "ph_meter (mV)": -44.9354248046875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.02432250976562, 34.4443130493164]
+      },
+      "properties": {
+        "ph (pH)": 8.11894989013672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.57968902587891, 34.8977394104004]
+      },
+      "properties": {
+        "ph (pH)": 10.15399169921875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.02432250976562, 34.4443130493164]
+      },
+      "properties": {
+        "redox (mV)": 132.359130859375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.57968902587891, 34.8977394104004]
+      },
+      "properties": {
+        "redox (mV)": 140.359130859375
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.02432250976562, 34.4443130493164]
+      },
+      "properties": {
+        "oxygen_mpl": 10.15399169921875,
+        "unit": "mg/L"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.57968902587891, 34.8977394104004]
+      },
+      "properties": {
+        "oxygen_mpl": 10.15399169921875,
+        "unit": "mg/L"
+      }
+    }
+  ]
+}
