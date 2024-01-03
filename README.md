@@ -80,5 +80,7 @@
   > [`📂oxygen_data.json`](./oxygen/oxygen_data.json)
   >
   > [`📂conductivity_data.json`](./conductivity/conductivity.json)
+  >
+  > [`📂all_data.json`](./all_data.json) -> 종합 데이터
 
-  <img width='80%' src='./images/hard_coding_geo_json.gif' />
+    <img width='80%' src='./images/hard_coding_geo_json.gif' />
