@@ -22,11 +22,13 @@
 
    - 위의 사이트는 그냥 기본 템플릿인 듯
 
-- ❗️ `Rest API`를 사용하는 방법으로는 데이터 형식이 `GeoJSON` 형식일 경우 먹힐 가능성도 존재
+5. ❗️ `Rest API`를 사용하는 방법으로는 데이터 형식이 `GeoJSON` 형식일 경우 먹힐 가능성도 존재
 
-  - ArcGIS -> 콘텐츠 -> 새 항목 -> URL -> GeoJSON 형식의 API 주소 입력 -> 레이어 유형 선택 (GeoJSON)
+   - [GeoJSON Schema GitHub](https://github.com/geojson/schema)
 
-    - 아직 테스트 X
+   - ArcGIS -> 콘텐츠 -> 새 항목 -> URL -> GeoJSON 형식의 API 주소 입력 -> 레이어 유형 선택 (GeoJSON)
+
+     - 아직 테스트 X
 
 ### GeoJSON
 
