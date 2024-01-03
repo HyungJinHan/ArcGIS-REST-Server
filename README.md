@@ -75,10 +75,10 @@
 
 - 하드코딩으로 GeoJSON 데이터 추가한 결과
 
-  > [`📂 ph_data.json`](./ph/ph_data.json)
+  > [`📂ph_data.json`](./ph/ph_data.json)
   >
-  > [`📂 oxygen_data.json`](./oxygen/oxygen_data.json)
+  > [`📂oxygen_data.json`](./oxygen/oxygen_data.json)
   >
-  > [`📂 conductivity_data.json`](./conductivity/conductivity.json)
+  > [`📂conductivity_data.json`](./conductivity/conductivity.json)
 
   <img width='80%' src='./images/hard_coding_geo_json.gif' />
