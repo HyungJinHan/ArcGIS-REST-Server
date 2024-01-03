@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.02432250976562, 34.4443130493164]
+      },
+      "properties": {
+        "temperature (°C)": 15.547189712524414,
+        "conductivity (µS/cm)": 40520.5625,
+        "salinity (g/Kg)": 25.891000747680664,
+        "tds (ppm)": 26423.458984375,
+        "oxygen_mpl (mg/L)": 10.15399169921875,
+        "oxygen_per (%)": 90.496101379394531,
+        "oxygen_ppm (ppm)": 15.547189712524414,
+        "ph_meter (mV)": -42.9354248046875,
+        "ph (pH)": 8.11894989013672,
+        "redox (mV)": 132.359130859375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.57968902587891, 34.8977394104004]
+      },
+      "properties": {
+        "temperature (°C)": 10.547189712524414,
+        "conductivity (µS/cm)": 39520.5625,
+        "salinity (g/Kg)": 27.891000747680664,
+        "tds (ppm)": 27423.458984375,
+        "oxygen_mpl (mg/L)": 10.15399169921875,
+        "oxygen_per (%)": 92.496101379394531,
+        "oxygen_ppm (ppm)": 12.547189712524414,
+        "ph_meter (mV)": -44.9354248046875,
+        "ph (pH)": 10.15399169921875,
+        "redox (mV)": 140.359130859375
+      }
+    }
+  ]
+}
