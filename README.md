@@ -2,7 +2,7 @@
 
 ### ArcGIS REST Services Directory
 
-1. ArcGIS Server URL 찾기
+1. ~~ArcGIS Server URL 찾기~~ -> ArcGIS Server 생성
 
    - 별도의 URL이 존재하는 것이 아닌 실행 파일을 총해 서버를 만들어야 하는 듯
 
@@ -25,6 +25,8 @@
 5. ❗️ `Rest API`를 사용하는 방법으로는 데이터 형식이 `GeoJSON` 형식일 경우 먹힐 가능성도 존재
 
    - [GeoJSON Schema GitHub](https://github.com/geojson/schema)
+
+   - [geojson.io (테스트 사이트)](https://geojson.io/#map=8.32/34.934/126.942)
 
    - ArcGIS -> 콘텐츠 -> 새 항목 -> URL -> GeoJSON 형식의 API 주소 입력 -> 레이어 유형 선택 (GeoJSON)
 
